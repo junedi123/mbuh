@@ -75,7 +75,7 @@
             }
         },
      "If Win": "0.8",
-     "If Lose": "1.035",
+     "If Lose": "1.35",
      "Reset If Win": "2",
      "Reset If Profit": "1",
      "Interval": "110"
